@@ -24,9 +24,6 @@
     (function () {
       var resolve
       window.lodashPromise = new Promise(function (_resolve) { resolve = _resolve })
-      window.__onLodashLoaded = function () {
-        resolve()
-      }
     })()
   </script>
 
