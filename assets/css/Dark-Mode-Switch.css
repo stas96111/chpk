@@ -1,0 +1,33 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"].custom-control.custom-switch {
+}
+
+[data-theme="dark"] .navbar.navbar-light.navbar-expand-md.navigation-clean {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+.img-fluid {
+}
+
