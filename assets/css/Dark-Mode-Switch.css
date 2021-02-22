@@ -1,15 +1,10 @@
-[data-theme="dark"] .btn.btn-primary {
-  background-color: #1a1a1a !important;
-  color: #eee;
-}
-
-[data-theme="dark"] .col {
+[data-theme="dark"] .collapse.show {
   background-color: #2b2b2b !important;
   color: #eee;
 }
 
-[data-theme="dark"] .col.d-xl-flex.justify-content-xl-center.align-items-xl-center {
-  background-color: #2b2b2b !important;
+[data-theme="dark"] .card-header {
+  background-color: #111 !important;
   color: #eee;
 }
 
