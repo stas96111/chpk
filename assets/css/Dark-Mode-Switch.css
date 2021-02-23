@@ -1,3 +1,8 @@
+[data-theme="dark"] .photo-gallery {
+  background-color: #111 !important;
+  color: #3b3b3b;
+}
+
 [data-theme="dark"] .collapse.show {
   background-color: #2b2b2b !important;
   color: #eee;
