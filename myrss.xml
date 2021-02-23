@@ -2,29 +2,15 @@
 <rss version="2.0">
 /* бляяя це хуйня */
 <channel>
-<title>My Cool Blog</title>
+<title>ЧПК Блог</title>
 <link>http://c211.tk/</link>
-<description>My latest cool articles</description>
+<description>Новини</description>
 <item>
-<title>Article 3</title>
-<link>http://c211.tk/rosklad</link>
+<title>Тест</title>
+<link>http://c211.tk/</link>
 <guid>http://c211.tk/3</guid>
-<pubDate>Wed, 27 Nov 2013 13:20:00 GMT</pubDate>
-<description>My newest article.</description>
-</item>
-<item>
-<title>Article 2</title>
-<link>http://c211.tk/2</link>
-<guid>http://c211.tk/konspekt</guid>
-<pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
-<description>My second article.</description>
-</item>
-<item>
-<title>Article 1</title>
-<link>http://c211.tk/1</link>
-<guid> http://c211.tk/1</guid>
-<pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
-<description>My first article.</description>
+<pubDate>Tue, 23 Feb 2021 18:00:00 GMT</pubDate>
+<description>Це тест rss.Тут будуть новини і повідомлення про дз</description>
 </item>
 </channel>
 </rss>
