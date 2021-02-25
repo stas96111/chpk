@@ -1,31 +1,20 @@
-<<<<<<< HEAD
-<?xml version="1.0"  encoding="UTF-8"?>>
+ <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-/* бляяя це хуйня */
-=======
-<?xml version="1.0" encoding="windows-1251"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
->>>>>>> dfc74f1c55a799d71d1b6aa875624d7d9c838f38
+
 <channel>
-<atom:link href="http://web-master.pp.ru/feed/rss.xml" rel="self" type="application/rss+xml" />
-<title>Всё для вебмастера</title>
-<link>http://web-master.pp.ru/</link>
-<description>Новости портала Web-Master.pp.ru – всё о создании и популяризации сайтов</description>
+  <title>tut budut noviny pro vihid ds</title>
+  <link>https://www.w3schools.com</link>
+  <description>test</description>
+  /*<item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
+  </item>*/
+</channel>
 
-<image>
-<url>http://web-master.pp.ru/pic/rss.jpg</url>
-<link>http://web-master.pp.ru</link>
-<title>RSS-канал</title>
-</image>
-
-<lastBuildDate>Mon, 19 May 2008 01:32:00 GMT</lastBuildDate>
-
-<item>
-<title>Как сделать свой RSS-канал?</title>
-<link>http://web-master.pp.ru/info/09.shtml</link>
-<description>В данном материале дана пошаговая инструкция создания RSS-ленты для своего сайта</description>
-<pubDate>Mon, 19 May 2008 01:29:14 GMT</pubDate>
-<guid>http://web-master.pp.ru/info/09.shtml</guid>
-</item>
-
-</channel> </rss>
+</rss> 
